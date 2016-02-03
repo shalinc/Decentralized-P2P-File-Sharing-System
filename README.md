@@ -31,7 +31,7 @@ The components viz. Decentralized Indexing Server, its Peer and its DHT, works a
 <strong><h5>Using Command Prompt/Terminal:</h5></strong>
 1.	Extract the zip file</br>
 2.	Open Cmd</br>
-3.	Goto path \Decentralized-P2P-File-Sharing-System\src\Server\</br>
+3.	Goto path \Decentralized-P2P-File-Sharing-System\src\Server\ </br>
 4.	Run the cmd: javac *.java</br>
 5.	Now type cd . .</br>
 6.	You will be in the path: \Decentralized_p2p_FileSharingSystem \src\ </br>
